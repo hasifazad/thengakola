@@ -4,8 +4,10 @@ function App() {
   return (
     <div>
       <h1>THENGAKOLA</h1>
+
+      <h2>I made feature one</h2>
     </div>
   )
 }
 
-export default App
+export default App 
